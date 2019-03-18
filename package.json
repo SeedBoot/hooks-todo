@@ -1,11 +1,13 @@
 {
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
   "dependencies": {
     "classnames": "^2.2.6",
-    "react": "^16.0.0",
+    "react": "^16.8.4",
     "react-dom": "^16.8.4"
   },
   "devDependencies": {
-    "autoprefixer": "^9.4.10",
     "postcss-modules": "^1.4.1"
   }
 }
